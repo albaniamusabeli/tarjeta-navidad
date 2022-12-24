@@ -76,3 +76,7 @@ body{
 .right-card h2 {
     color: crimson;
 }
+
+.right-card img {
+    width: 50%;
+}
